@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "name": " M Yousaf",
+        "age": 48,
+        "school": "125 Sargodha",
+        "id": 1
+      },
+      {
+        "name": "Abdul Haseeb",
+        "age": 10,
+        "school": "APS Sargodha",
+        "id": 2
+      },
+      {
+        "name": "Abdul Haseeb",
+        "age": 10,
+        "school": "APS Sargodha",
+        "id": 3
+      }
+    ]
+  }
